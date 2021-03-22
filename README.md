@@ -1,3 +1,11 @@
+# Bar Chart
+
+API for this project: http://dummy.restapiexample.com/api/v1/employees
+
+
+<img width="1440" alt="Ekran Resmi 2021-03-22 21 52 03" src="https://user-images.githubusercontent.com/34038741/112042682-d8771d80-8b58-11eb-8150-0c02b9c9f7f7.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
